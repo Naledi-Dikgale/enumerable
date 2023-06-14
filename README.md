@@ -27,7 +27,7 @@
 
 # 📖 [Enumerable] <a name="about-project"></a>
 
-**[Enumerable]** involves the conversion of Morse code signals into corresponding letters or numbers.
+**[Enumerable]** description
 
 ## 🛠 Built With <a name="built-with"></a>
 
