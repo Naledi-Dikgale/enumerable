@@ -27,7 +27,7 @@
 
 # 📖 [Enumerable] <a name="about-project"></a>
 
-**[Enumerable]** description
+**[Enumerable]** Enumerable is a Ruby module that provides a set of methods that can be used to iterate over collections.
 
 ## 🛠 Built With <a name="built-with"></a>
 
